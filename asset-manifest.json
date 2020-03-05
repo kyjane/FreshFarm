@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kyjane/freshfarm/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kyjane/freshfarm/static/js/main.6534f357.chunk.js",
+    "main.js.map": "/kyjane/freshfarm/static/js/main.6534f357.chunk.js.map",
+    "runtime-main.js": "/kyjane/freshfarm/static/js/runtime-main.e5fead24.js",
+    "runtime-main.js.map": "/kyjane/freshfarm/static/js/runtime-main.e5fead24.js.map",
+    "static/js/2.316e974c.chunk.js": "/kyjane/freshfarm/static/js/2.316e974c.chunk.js",
+    "static/js/2.316e974c.chunk.js.map": "/kyjane/freshfarm/static/js/2.316e974c.chunk.js.map",
+    "index.html": "/kyjane/freshfarm/index.html",
+    "precache-manifest.a287d2d8bc93f16f84f829e0948f646d.js": "/kyjane/freshfarm/precache-manifest.a287d2d8bc93f16f84f829e0948f646d.js",
+    "service-worker.js": "/kyjane/freshfarm/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kyjane/freshfarm/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.316e974c.chunk.js.LICENSE.txt": "/kyjane/freshfarm/static/js/2.316e974c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kyjane/freshfarm/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5fead24.js",
+    "static/js/2.316e974c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6534f357.chunk.js"
+  ]
+}
